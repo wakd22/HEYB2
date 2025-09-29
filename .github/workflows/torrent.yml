@@ -2,7 +2,7 @@ name: Create torrent
 on:
   push:
     branches:
-      - master
+      - main
       
 env:
   name: "fc26"
